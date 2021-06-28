@@ -8,8 +8,8 @@ For easy and fast implementation all methods in DeliveryCostDeterminer.class pub
 1. git clone repo
 2. go to downloaded repo
 3. Running all tests: mvn clean test -Dtest=FullTestsSuite
-4. For generate allure report: mvn site
-    Allure report appear in:
-   /GitHubTestTasks/DeliveryCost/target/site/allure-maven-plugin/index.html
+4. For generate allure report: mvn site.
+
+Allure report appear in: /GitHubTestTasks/DeliveryCost/target/site/allure-maven-plugin/index.html
 
 Answer for questions you can find in QuestionsAnswers.txt
